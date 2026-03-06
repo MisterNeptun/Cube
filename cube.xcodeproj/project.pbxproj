@@ -48,11 +48,6 @@
 			path = cube;
 			sourceTree = "<group>";
 		};
-		300232BA2E3788DE00804B54 /* cubeTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = cubeTests;
-			sourceTree = "<group>";
-		};
 		300232C42E3788DE00804B54 /* cubeUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = cubeUITests;
@@ -89,7 +84,6 @@
 			isa = PBXGroup;
 			children = (
 				300232AB2E3788DD00804B54 /* cube */,
-				300232BA2E3788DE00804B54 /* cubeTests */,
 				300232C42E3788DE00804B54 /* cubeUITests */,
 				300232AA2E3788DD00804B54 /* Products */,
 			);
@@ -142,9 +136,6 @@
 			);
 			dependencies = (
 				300232B92E3788DE00804B54 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				300232BA2E3788DE00804B54 /* cubeTests */,
 			);
 			name = cubeTests;
 			packageProductDependencies = (
