@@ -1,52 +1,8 @@
-# macOS system files
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
+# Alles ignorieren
+*
 
-# Trash & Spotlight
-.Trashes
-.Spotlight-V100
-.DocumentRevisions-V100
-
-# Xcode
-build/
-DerivedData/
-*.pbxuser
-*.mode1v3
-*.mode2v3
-*.perspectivev3
-xcuserdata/
-*.xccheckout
-*.moved-aside
-*.xcuserstate
-*.xcscmblueprint
-
-# Swift Package Manager
-.swiftpm/
-Package.resolved
-
-# CocoaPods
-Pods/
-
-# Carthage
-Carthage/Build/
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-env/
-venv/
-
-# Logs
-*.log
-
-# IDEs / Editors
-.vscode/
-.idea/
-
-# Misc
-*.swp
-*.swo
+# Nur diese Ordner/Dateien erlauben
+!README.md
+!cube/
+!PythonCubeAI/
+!.gitignore
