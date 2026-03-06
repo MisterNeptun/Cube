@@ -1,10 +1,17 @@
-# Alles ignorieren
+
 *
 
-# Nur diese Ordner/Dateien erlauben
+
 !README.md
 !cube/
 !PythonCubeAI/
 !.gitignore
 !cube/**
 !PythonCubeAI/**
+
+cube/cube.entitlements
+cube/Info.plist
+cube/.DS_Store
+.DS_Store
+PythonCubeAI/.idea
+PythonCubeAI/.venv
