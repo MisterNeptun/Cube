@@ -6,3 +6,5 @@
 !cube/
 !PythonCubeAI/
 !.gitignore
+!cube/**
+!PythonCubeAI/**
