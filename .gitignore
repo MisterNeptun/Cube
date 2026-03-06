@@ -1,15 +1,5 @@
-# Ignore everything by default
-*
-
-# Keep these
-!README.md
-!.gitignore
-!cube/**
-!PythonCubeAI/**
-
 # macOS
 .DS_Store
-cube/.DS_Store
 
 # Xcode
 xcuserdata/
@@ -21,6 +11,6 @@ DerivedData/
 *.ipa
 *.xcarchive
 
-# Python virtual environments
+# Python
 PythonCubeAI/.venv
 PythonCubeAI/__pycache__/
