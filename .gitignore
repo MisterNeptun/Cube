@@ -46,5 +46,5 @@ PythonCubeAI/*.pyc
 PythonCubeAI/*.pyo
 PythonCubeAI/.idea
 PythonCubeAI/.venv
-cubeTests
-cubeUITests
+cubeTests/
+cubeUITests/
