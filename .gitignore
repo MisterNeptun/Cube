@@ -1,0 +1,50 @@
+# Xcode project files
+
+cube.xcodeproj
+# Build products
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+
+# CocoaPods (if used)
+Pods/
+Podfile.lock
+
+# Carthage (if used)
+Carthage/Build/
+
+# User settings
+*.xcuserstate
+*.moved-aside
+*.swp
+*.DS_Store
+
+# Xcode indexing files
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcscmblueprint
+
+# Playgrounds
+timeline.xctimeline
+*.xcplayground
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Optional: ignore Python cache
+PythonCubeAI/__pycache__/
+PythonCubeAI/*.pyc
+PythonCubeAI/*.pyo
+PythonCubeAI/.idea
+PythonCubeAI/.venv
+cubeTests
+cubeUITests
