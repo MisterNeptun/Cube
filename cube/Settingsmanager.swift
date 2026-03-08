@@ -18,7 +18,7 @@ struct Settingsmanager: View {
                 CubeSettings()
             }
             Tab("Credits", systemImage: "c.cricle"){
-                CubeSettings()
+                EmptyView()
             }
             
             
