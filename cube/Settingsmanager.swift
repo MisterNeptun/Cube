@@ -17,6 +17,9 @@ struct Settingsmanager: View {
             Tab("Cube", systemImage: "cube"){
                 CubeSettings()
             }
+            Tab("Credits", systemImage: "c.cricle"){
+                CubeSettings()
+            }
             
             
             
